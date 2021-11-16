@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:plt="http://www.fakeplanet.com/namespace#">
+
+<rdf:Description 
+    rdf:about="https://id.wikipedia.org/wiki/Matahari">   
+    <dc:title>Matahari</dc:title>
+    <plt:mass>1,9891×10^30 kg (333.000 x Massa Bumi)</plt:mass>
+    <plt:diameter>1.392.684 km</plt:diameter>
+    <plt:composition> 71% Hidrogen, 27% Helium, dan 2% unsur-unsur lain.</plt:composition>
+    <plt:rotation>27 Hari</plt:rotation>
+    <plt:satellite>-</plt:satellite>
+    <plt:volume>1,41×10^18 km³ (1.300.000 x Volume Bumi)</plt:volume>
+    <dc:description>Matahari atau Surya adalah bintang di pusat tata surya. Bentuknya nyaris bulat dan terdiri dari plasma panas bercampur medan magnet.Matahari terbentuk sekitar 4,6 miliar tahun yang lalu akibat peluruhan gravitasi suatu wilayah di dalam sebuah awan molekul besar. Sebagian besar materi berkumpul di tengah, sementara sisanya memipih menjadi cakram beredar yang kelak menjadi tata surya.</dc:description>
+    <plt:image>https://ilmugeografi.com/wp-content/uploads/2015/11/photospher.jpg</plt:image>
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://id.wikipedia.org/wiki/Merkurius">   
+    <dc:title>Merkurius</dc:title>
+    <plt:mass>3,3022×10^23 kg (0,055 x Massa Bumi)</plt:mass>
+    <plt:diameter>4.879,4 km</plt:diameter>
+    <plt:composition>70% Logam dan 30% Silikat</plt:composition>
+    <plt:rotation>58 hari, 15 jam, 30 menit</plt:rotation>
+    <plt:satellite>-</plt:satellite>
+    <plt:volume>6,083×10^10 km³ (0,054 x Volume Bumi)</plt:volume>
+    <dc:description>Merkurius adalah planet terkecil di Tata Surya sekaligus yang terdekat dari Matahari. Planet ini dinamai menurut nama dewa Merkurius, sang pembawa pesan para dewa dalam mitologi Romawi.</dc:description>
+    <plt:image>http://upload.wikimedia.org/wikipedia/commons/5/5b/CW0131775256F_Kuiper_Crater.png</plt:image>
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://id.wikipedia.org/wiki/Venus">   
+    <dc:title>Venus</dc:title>
+    <plt:mass>4,8676×1024 kg (0,815 x Massa Bumi)</plt:mass>
+    <plt:diameter>12.104 km</plt:diameter>
+    <plt:composition>96,5% Karbon Dioksida dan 3,5% unsur-unsur lain</plt:composition>
+    <plt:rotation>116 hari, 18 jam</plt:rotation>
+    <plt:satellite>-</plt:satellite>
+    <plt:volume>9,28×10^11 km³ (0,866 x Volume Bumi)</plt:volume>
+    <dc:description>Venus adalah planet terdekat kedua dari Matahari setelah Merkurius dan merupakan planet terpanas di tata surya. Venus merupakan planet inferior dengan sudut elongasi yang mencapai 47,8°. Kecerahan maksimal planet ini dapat dilihat segera sebelum matahari terbit atau setelah matahari terbenam, sehingga disebut Bintang Fajar atau Bintang Senja.</dc:description>
+    <plt:image>https://asset.kompas.com/crops/RP6TT7e5cwHehD5ow67RupKzvqs=/0x56:1000x722/750x500/data/photo/2020/09/16/5f61eb0d094db.jpg</plt:image>
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://id.wikipedia.org/wiki/Bumi">   
+    <dc:title>Bumi</dc:title>
+    <plt:mass>5,97219×10^24 kg</plt:mass>
+    <plt:diameter>12.742 km</plt:diameter>
+    <plt:composition>32,1% Besi, 30,1% Oksigen, 15,1% Silikon, 13,9% Magnesium dan unsur-unsur lain</plt:composition>
+    <plt:rotation>23 jam, 56 menit, 4 detik (24 jam)</plt:rotation>
+    <plt:satellite>1</plt:satellite>
+    <plt:volume>1,08321×10^12 km³</plt:volume>
+    <dc:description>Bumi adalah planet ketiga dari Matahari yang merupakan planet terpadat dan terbesar kelima dari delapan planet dalam Tata Surya. Bumi juga merupakan planet terbesar dari empat planet kebumian Tata Surya. Bumi terbentuk sekitar 4,54 miliar tahun yang lalu, dan kehidupan sudah muncul di permukaannya paling tidak sekitar 3,5 miliar tahun yang lalu.</dc:description>
+    <plt:image>https://images.bisnis-cdn.com/posts/2021/11/01/1460761/bumi-bulat.jpg</plt:image>
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://id.wikipedia.org/wiki/Mars">   
+    <dc:title>Mars</dc:title>
+    <plt:mass>6,4185×10^23kg (0,107 x Massa Bumi)</plt:mass>
+    <plt:diameter>6.779 km</plt:diameter>
+    <plt:composition>95,72% Karbon Dioksida, 2,7% Nitrogen, dan unsur-unsur lain.</plt:composition>
+    <plt:rotation>1 hari, 0 jam, 37 menit</plt:rotation>
+    <plt:satellite>2</plt:satellite>
+    <plt:volume>1,6318×10^11 km³ (0,151 x Volume Bumi)</plt:volume>
+    <dc:description>Mars adalah planet terdekat keempat dari Matahari. Namanya diambil dari dewa perang Romawi, Mars. Planet ini sering dijuluki sebagai "planet merah" karena tampak dari jauh berwarna kemerah-kemerahan. Ini disebabkan oleh keberadaan besi(III) oksida di permukaan planet Mars.</dc:description>
+    <plt:image>https://cdn.medcom.id/dynamic/content/2020/10/06/1195908/2canlbsuB7.jpg?w=480</plt:image>
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://id.wikipedia.org/wiki/Jupiter">   
+    <dc:title>Jupiter</dc:title>
+    <plt:mass>1,8986×10^27 kg (317,8 x Massa Bumi)</plt:mass>
+    <plt:diameter>139.820 km</plt:diameter>
+    <plt:composition>87% Hidrogen dan 13% Helium</plt:composition>
+    <plt:rotation>9 jam, 56 menit</plt:rotation>
+    <plt:satellite>79</plt:satellite>
+    <plt:volume>1,4313×10^15 km³ (1321,3 x Volume Bumi)</plt:volume>
+    <dc:description>Jupiter atau Yupiter adalah planet terdekat kelima dari Matahari setelah Merkurius, Venus, Bumi, dan Mars. Planet ini juga merupakan planet terbesar di Tata Surya.[11] Jupiter merupakan raksasa gas dengan massa seperseribu massa Matahari dan dua setengah kali jumlah massa semua planet lain di Tata Surya.</dc:description>
+    <plt:image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg/220px-Jupiter_and_its_shrunken_Great_Red_Spot.jpg</plt:image>
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://id.wikipedia.org/wiki/Saturnus">   
+    <dc:title>Saturnus</dc:title>
+    <plt:mass>5,6834×10^26 kg (95,159 x Massa Bumi)</plt:mass>
+    <plt:diameter>116.460 km</plt:diameter>
+    <plt:composition>96,3% Hidrogen, 3,25% Helium, dan unsur-unsur lain</plt:composition>
+    <plt:rotation>10 jam, 42 menit</plt:rotation>
+    <plt:satellite>82</plt:satellite>
+    <plt:volume>8,2713×10^14 km³ (763,59 x Volume Bumi)</plt:volume>
+    <dc:description>Saturnus adalah planet keenam dari Matahari dan merupakan planet terbesar kedua di Tata Surya setelah Jupiter. Saturnus juga merupakan sebuah raksasa gas. Saturnus dinamai menurut dewa kesejahteraan dan agribudaya dalam mitologi Yunani simbol astronominya (♄) melambangkan sabit yang digunakan oleh dewa tersebut.</dc:description>
+    <plt:image>https://asset-a.grid.id//crop/0x0:0x0/360x240/photo/2018/08/24/1180260930.jpg</plt:image>
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://id.wikipedia.org/wiki/Uranus">   
+    <dc:title>Uranus</dc:title>
+    <plt:mass>(8,6810 ± 0,0013)×10^25 kg (14,536 x Massa Bumi)</plt:mass>
+    <plt:diameter>50.724 km</plt:diameter>
+    <plt:composition>83% Hidrogen, 15% Helium, dan unsur-unsur lain</plt:composition>
+    <plt:rotation>17 jam, 14 menit</plt:rotation>
+    <plt:satellite>5</plt:satellite>
+    <plt:volume>6,833×10^13 km³ (63,086 x Volume Bumi)</plt:volume>
+    <dc:description>Uranus (berasal dari nama Latin Ūranus untuk nama dewa Yunani Οὐρανός) adalah planet ketujuh dari Matahari.Uranus merupakan planet yang memiliki jari-jari terbesar ketiga sekaligus massa terbesar keempat di Tata Surya.</dc:description>
+    <plt:image>https://akcdn.detik.net.id/visual/2020/11/18/ilustrasi-planet-uranus-1_169.jpeg?w=650</plt:image>
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://id.wikipedia.org/wiki/Neptunus">   
+    <dc:title>Neptunus</dc:title>
+    <plt:mass>1,0243×10^26 kg (17,147 x Massa Bumi)</plt:mass>
+    <plt:diameter>49.244 km</plt:diameter>
+    <plt:composition>80% Hidrogen, 19% Helium, dan unsur-unsur lain</plt:composition>
+    <plt:rotation>17 jam, 6 menit</plt:rotation>
+    <plt:satellite>14 </plt:satellite>
+    <plt:volume>6,254×10^13 km³ (57,74 x Volume Bumi)</plt:volume>
+    <dc:description>Neptunus merupakan planet terjauh (kedelapan) jika ditinjau dari Matahari. Planet ini dinamai dari dewa lautan Romawi. Neptunus merupakan planet terbesar keempat dan terbesar ketiga berdasarkan massa.</dc:description>
+    <plt:image>https://mmc.tirto.id/image/otf/500x0/2019/08/23/nasaaa_ratio-16x9.jpg</plt:image>
+</rdf:Description>
+        
+</rdf:RDF>

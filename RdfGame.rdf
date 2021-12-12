@@ -80,7 +80,7 @@
     rdf:about="https://id.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_(permainan_video_2019)">   
     <dc:title>Call of Duty Modern Warfare (2019)</dc:title>
     <dc:created>October-25-2019</dc:created>
-    <cd:price>50$</cd:price>
+    <cd:price>$50.00 USD</cd:price>
     <dc:description>The game takes place in a realistic and modern setting. The campaign follows a CIA officer and British SAS forces as they team up with rebels from the fictional country of Urzikstan, combating together against Russian forces who have invaded the country.</dc:description>
 </rdf:Description>
 
